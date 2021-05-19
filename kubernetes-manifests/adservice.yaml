@@ -17,7 +17,7 @@ kind: Deployment
 metadata:
   annotations:
     app.komodor.com/adservice: https://github.com/yarelm/microservices-demo
-    app.komodor.com/adservice.ref: 11107405aa9749f37d32e459dc07eefdb38340bc
+    app.komodor.com/adservice.ref: 393f55c8f88e802447f897fddc45a2b3927669d6
   name: adservice
 spec:
   selector:
